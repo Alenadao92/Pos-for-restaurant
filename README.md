@@ -4,6 +4,7 @@ Powerful and customizable POS software [POS software for retail store](https://g
 ## Grow 5x Faster With POS Software For Restaurant
 Windows & Android POS
 Do you know that you can run point of sale software on your Ipad and tablets? Now, your POS can go to customers and serve directly.
+
 ![POS software for Restaurant store](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/shutterstock_306038723-2.jpg)
 
 ### Paying Via Mobile Wallet (Custom)
