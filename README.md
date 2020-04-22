@@ -19,5 +19,6 @@ Artificial intelligence(AI) help you get deeper analytics: customers’ age, gen
 ### Restaurant CRM/ Loyalty Program
 With Giga POS software, you can create and store customer information. Also, you can offer loyalty & gift cards, reward points, and manage customer data through other promotion campaigns.
 
+![GIGASOURCE pos](https://gigasource.b-cdn.net/wp-content/uploads/2020/04/catalogue_POS_RESTAURANT-1.png)
 ### Free Mobile Apps For Download
 A point of sale (POS) with mobile app can let customers checkout anywhere without staying next to the physical counter
